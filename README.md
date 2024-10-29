@@ -1,17 +1,18 @@
 ### Pages Lists
 
-<!-- - Home
-- About Us -->
+- Home
+- second page
+- third page
 
 ## Installation
 
-<!-- Install tuson with npm -->
+Install folder with npm
 
-<!-- ```bash
+```bash
   git clone
-  cd tuson
+  cd folder
   npm install
-``` -->
+```
 
 ## Styling with tailwind css
 
